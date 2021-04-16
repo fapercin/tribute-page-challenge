@@ -1,0 +1,13 @@
+#IDE
+
+#img
+*.img
+*.jpg
+img/
+
+#videos
+*.mp4
+
+#packages
+
+#log
